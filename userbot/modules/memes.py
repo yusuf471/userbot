@@ -1200,6 +1200,7 @@ async def nih(e):
                      "`\n(\_/)`"
                      "`\n( •_•)`"
                      "`\n🌹<\  *tapi boong`")
+                                                                          
 
 
 @register(outgoing=True, pattern="^.fag$")  
